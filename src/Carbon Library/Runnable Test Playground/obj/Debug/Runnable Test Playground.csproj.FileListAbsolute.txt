@@ -1,0 +1,24 @@
+E:/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.exe.config
+E:/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.exe
+E:/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.pdb
+E:/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.csprojResolveAssemblyReference.cache
+E:/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.exe
+E:/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.pdb
+E:/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable_Test_Playground.Properties.Resources.resources
+E:/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.csproj.GenerateResource.Cache
+E:/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Carbon Library.dll
+E:/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Carbon Library.pdb
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.csprojResolveAssemblyReference.cache
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable_Test_Playground.Properties.Resources.resources
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.csproj.GenerateResource.Cache
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.csproj.CoreCompileInputs.cache
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.exe
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/obj/Debug/Runnable Test Playground.pdb
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.exe.config
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.exe
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Runnable Test Playground.pdb
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Carbon Library.dll
+/Volumes/C/Carbon/Carbon Library/Runnable Test Playground/bin/Debug/Carbon Library.pdb
+E:\Carbon\Carbon Library\Runnable Test Playground\bin\Debug\Runnable Test Playground.exe.config
+E:\Carbon\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.exe
+E:\Carbon\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.pdb
