@@ -1,4 +1,0 @@
-E:\Carbon\Carbon Library\Executable Carbon Test\bin\Debug\Executable Carbon Test.dll
-E:\Carbon\Carbon Library\Executable Carbon Test\bin\Debug\Executable Carbon Test.pdb
-E:\Carbon\Carbon Library\Executable Carbon Test\obj\Debug\Executable Carbon Test.dll
-E:\Carbon\Carbon Library\Executable Carbon Test\obj\Debug\Executable Carbon Test.pdb

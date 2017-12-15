@@ -1,5 +1,0 @@
-E:\Carbon\Carbon Library\Carbon Library\bin\Debug\Carbon Library.dll
-E:\Carbon\Carbon Library\Carbon Library\bin\Debug\Carbon Library.pdb
-E:\Carbon\Carbon Library\Carbon Library\obj\Debug\Carbon Library.csprojResolveAssemblyReference.cache
-E:\Carbon\Carbon Library\Carbon Library\obj\Debug\Carbon Library.dll
-E:\Carbon\Carbon Library\Carbon Library\obj\Debug\Carbon Library.pdb
