@@ -9,3 +9,8 @@ E:/Carbon/Carbon Library/Carbon Library/obj/Debug/Carbon Library.pdb
 /Volumes/C/Carbon/Carbon Library/Carbon Library/obj/Debug/Carbon Library.pdb
 /Volumes/C/Carbon/Carbon Library/Carbon Library/bin/Debug/Carbon Library.dll
 /Volumes/C/Carbon/Carbon Library/Carbon Library/bin/Debug/Carbon Library.pdb
+E:\Carbon\src\Carbon Library\Carbon Library\bin\Debug\Carbon Library.dll
+E:\Carbon\src\Carbon Library\Carbon Library\bin\Debug\Carbon Library.pdb
+E:\Carbon\src\Carbon Library\Carbon Library\obj\Debug\Carbo_Library.csprojResolveAssemblyReference.cache
+E:\Carbon\src\Carbon Library\Carbon Library\obj\Debug\Carbon Library.dll
+E:\Carbon\src\Carbon Library\Carbon Library\obj\Debug\Carbon Library.pdb

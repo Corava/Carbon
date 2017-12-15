@@ -6,35 +6,35 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 
 namespace Carbon {
-    /*
-  * Note Area: 
-  * Create ways to create Posts, ContentAreas, Groups, etc.
-  * xudo = god, create him
-  * params string[]
-  * Create a global user for whenever someone logs in
-  * 
-  * 
-  */
+     ///<summary>
+  /// Note Area: 
+  /// Create ways to create Posts, ContentAreas, Groups, etc.
+  /// xudo = god, create him
+  /// params string[]
+  /// Create a global user for whenever someone logs in
+  /// 
+  /// 
+  ///</summary>
     //var indexOfUser = members.FirstOrDefault(o => o.UID == user.UID);
     //Verify you wish to remove user
 
     #region Graphical Classes
-    /* Simple Class for Pictures, stores location on drive
-     * 
-     * 
-     */
+     ///<summary> Simple Class for Pictures, stores location on drive
+     /// 
+     /// 
+     ///</summary>
     public class LinkedPictures {
         private List<String> paths;
     }
 
-    /* Class containing the data included with a Post
-     * 
-     * External Calls:
-     * DateTime
-     * PostHistory
-     * User
-     * ContentArea
-     */
+     ///<summary> Class containing the data included with a Post
+     /// 
+     /// External Calls:
+     /// DateTime
+     /// PostHistory
+     /// User
+     /// ContentArea
+     ///</summary>
 
     public class Post {
         public string postContent { get; set; }
@@ -69,9 +69,9 @@ namespace Carbon {
         }
     }
 
-    /* Class containing a collection 
-     * 
-     */
+     ///<summary> Class containing a collection 
+     /// 
+     ///</summary>
     public class Meeting {
         public string meetingName { get; set; }
         public List<ContentArea> contentAreas { get; set; }
@@ -117,11 +117,11 @@ namespace Carbon {
         }
     }
 
-    /* Class containing a type for a post
-     * 
-     * External Calls:
-     * 
-     */
+     ///<summary> Class containing a type for a post
+     /// 
+     /// External Calls:
+     /// 
+     ///</summary>
     public class ContentArea {
         private string _contentType;
         public string contentType {
@@ -133,14 +133,14 @@ namespace Carbon {
         }
     }
 
-    /* Class containing a collection of meeetings and group specific parameters
-     * 
-     * External Calls
-     * Meetings
-     * User
-     * GroupFormatting
-     * ContentArea
-     */
+     ///<summary> Class containing a collection of meeetings and group specific parameters
+     /// 
+     /// External Calls
+     /// Meetings
+     /// User
+     /// GroupFormatting
+     /// ContentArea
+     ///</summary>
     public class Group {
         public List<Meeting> meetings { get; set; } = new List<Meeting>();
         public List<User> groupMembers { get; set; }
@@ -180,12 +180,12 @@ namespace Carbon {
     #endregion
 
     #region Configuration Classes
-    /* Class containing formatting rules for post organization and order
-     * 
-     * External Calls
-     * ContentArea
-     * 
-     */
+     ///<summary> Class containing formatting rules for post organization and order
+     /// 
+     /// External Calls
+     /// ContentArea
+     /// 
+     ///</summary>
     public class Formatting {
         private List<ContentArea> orderOfContentAreas = new List<ContentArea>();
 
@@ -214,11 +214,11 @@ namespace Carbon {
     #endregion
 
     #region History Classes
-    /* Class containing every iteration of strings that a user has inputed
-     * 
-     * External Calls:
-     * User
-     */
+     ///<summary> Class containing every iteration of strings that a user has inputed
+     /// 
+     /// External Calls:
+     /// User
+     ///</summary>
     public class PostHistory {
         private List<int> change_order;
         private List<User> change_user;
@@ -228,14 +228,14 @@ namespace Carbon {
     #endregion
 
     #region User Classes
-    /* Class for identifying users of the software
-     * 
-     * External Calls:
-     * UserAccess
-     * 
-     * Possible Changes:
-     * Integrating with Microsoft AD services
-     */
+     ///<summary> Class for identifying users of the software
+     /// 
+     /// External Calls:
+     /// UserAccess
+     /// 
+     /// Possible Changes:
+     /// Integrating with Microsoft AD services
+     ///</summary>
     public class User {
         private UserAccess userRights;
         private Formatting userFormatting;
@@ -259,11 +259,11 @@ namespace Carbon {
 
     #region Permissions
     enum Levels { NA, User, GroupAdmin, OriginAdmin, xudo }
-    /* Class for assigning roles for users
-     * 
-     * External Calls:
-     * N/A
-     */
+     ///<summary> Class for assigning roles for users
+     /// 
+     /// External Calls:
+     /// N/A
+     ///</summary>
     public class UserAccess {
         protected bool editPost;
         protected bool createPost;
@@ -273,14 +273,14 @@ namespace Carbon {
         protected bool removeGroup;
     }
 
-    /* Class for specifying user access by group or by community
-     * 
-     * External Calls:
-     * N/A
-     * 
-     * Implements:
-     * UserAccess
-     */
+     ///<summary> Class for specifying user access by group or by community
+     /// 
+     /// External Calls:
+     /// N/A
+     /// 
+     /// Implements:
+     /// UserAccess
+     ///</summary>
     public class SpecificUserAccess : UserAccess {
         private string groupById;
         private string communityById;

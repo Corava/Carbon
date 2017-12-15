@@ -25,3 +25,10 @@ E:\Carbon\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playgr
 E:\Carbon\src\Carbon Library\Runnable Test Playground\bin\Debug\Runnable Test Playground.exe.config
 E:\Carbon\src\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.exe
 E:\Carbon\src\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.pdb
+E:\Carbon\src\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.csprojResolveAssemblyReference.cache
+E:\Carbon\src\Carbon Library\Runnable Test Playground\obj\Debug\Runnable_Test_Playground.Properties.Resources.resources
+E:\Carbon\src\Carbon Library\Runnable Test Playground\obj\Debug\Runnable Test Playground.csproj.GenerateResource.Cache
+E:\Carbon\src\Carbon Library\Runnable Test Playground\bin\Debug\Runnable Test Playground.exe
+E:\Carbon\src\Carbon Library\Runnable Test Playground\bin\Debug\Runnable Test Playground.pdb
+E:\Carbon\src\Carbon Library\Runnable Test Playground\bin\Debug\Carbon Library.dll
+E:\Carbon\src\Carbon Library\Runnable Test Playground\bin\Debug\Carbon Library.pdb
